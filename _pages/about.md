@@ -61,6 +61,6 @@ Academic Activity
 
 Work Experience
 ======
-* Research Intern, Sep. 2022 - Feb. 2023, Alibaba DAMO Academy.
+* Research Intern, July 2022 - Jan. 2023, Alibaba DAMO Academy.
 * Staff, July 2023 - present, Ant Group.
 
