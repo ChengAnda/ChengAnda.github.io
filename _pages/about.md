@@ -59,3 +59,8 @@ Academic Activity
 ======
 * Reviewer: ICML, NeurIPS, ICLR, ACL, EMNLP, CVPR, ECCV, AAAI, AISTATS, ICASSP.
 
+Work Experience
+======
+* Research Intern, Sep. 2022 - Feb. 2023, Alibaba DAMO Academy.
+* Staff, July 2023 - present, Ant Group.
+
