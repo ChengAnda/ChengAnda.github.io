@@ -17,10 +17,10 @@ Hi there! I am Anda Cheng (程安达), currently serving as an Algorithm Expert 
 Publications
 ======
 - __[ICLR'26]__ Wei Huang\*, __Anda Cheng__\*(co-first author), Yinggui Wang: GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs.
-- __[VLDB'26]__ Wei Huang*, __Anda Cheng__*(co-first author, corresponding author), Yinggui Wang, Lei Wang, Tao Wei: LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
+- __[VLDB'26]__ Wei Huang\*, __Anda Cheng__\*(co-first author, corresponding author), Yinggui Wang, Lei Wang, Tao Wei: LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
 - __[EMNLP'25 Main]__	__Anda Cheng__, Wei Huang, Yinggui Wang: A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization.
-- __[EMNLP'25 Main]__	Wei Huang*, __Anda Cheng__*(co-first author), Yinggui Wang: Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning. 
-- __[EMNLP'25 Finding]__		Wei Huang*, __Anda Cheng__*(co-first author), Zhao Zhang, Yinggui Wang: DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment.
+- __[EMNLP'25 Main]__	Wei Huang\*, __Anda Cheng__\*(co-first author), Yinggui Wang: Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning. 
+- __[EMNLP'25 Finding]__		Wei Huang\*, __Anda Cheng__\*(co-first author), Zhao Zhang, Yinggui Wang: DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment.
 - __[IJCAI'25]__ Yiran Xu, Nan Zhong, Guobiao Li, __Anda Cheng__, Yinggui Wang, Zhenxing Qian, Xinpeng Zhang:
 Fine-grained Prompt Screening: Defending Against Backdoor Attack on Text-to-Image Diffusion Models. 
 - __[arxiv'25]__		Chunyang Li, Zifeng Kang, Junwei Zhang, Zhuo Ma, __Anda Cheng__, Xinghua Li, Jianfeng Ma:
