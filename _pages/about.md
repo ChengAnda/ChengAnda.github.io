@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi there! I am Anda Cheng (程安达), currently serving as an Algorithm Expert at Ant Group. My work primarily focuses on applying large language models (LLMs) in vertical domains and developing agent systems. My research interests encompass LLMs, AI agents, and trustworthy AI. I received my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2023, where I was fortunate to be advised by Professor [Jian Cheng](https://people.ucas.ac.cn/~chengjian). Prior to that, I obtained my B.Eng. degree from Northeastern University in 2017.
+Hi there! I am Anda Cheng (程安达), currently serving as an Algorithm Expert at Ant Group. My research interests encompass LLMs, AI agents, and trustworthy AI. I received my Ph.D. from the Institute of Automation, Chinese Academy of Sciences (CASIA) in 2023, where I was fortunate to be advised by Professor [Jian Cheng](https://people.ucas.ac.cn/~chengjian). Prior to that, I obtained my B.Eng. degree from Northeastern University in 2017.
 
 ---
 
