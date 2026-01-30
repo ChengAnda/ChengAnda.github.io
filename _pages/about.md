@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Anda's Homepage"
-excerpt: About me
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -52,5 +52,5 @@ Robust one-stage object detection with location-aware classifiers.
 
 Academic Activity
 ======
-* Reviewer: ICML, NeurIPS, ICLR, ACL, EMNLP, CVPR, ECCV, AAAI, AISTATS, ICASSP
+* Reviewer: ICML, NeurIPS, ICLR, ACL, EMNLP, CVPR, ECCV, AAAI, AISTATS, ICASSP.
 
