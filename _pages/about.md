@@ -15,36 +15,36 @@ Hi there! I am Anda Cheng (程安达), currently serving as an Algorithm Expert 
 
 Publications
 ======
-- **[ICLR'26]** Wei Huang*, **Anda Cheng***(co-first author), Yinggui Wang: GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs.
-- **[VLDB'26]** Wei Huang*, **Anda Cheng***(co-first author, corresponding author), Yinggui Wang, Lei Wang, Tao Wei: LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
-- **[EMNLP'25 Main]**	**Anda Cheng**, Wei Huang, Yinggui Wang: A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization.
-- **[EMNLP'25 Main]**	Wei Huang*, **Anda Cheng***(co-first author), Yinggui Wang: Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning. 
-- **[EMNLP'25 Finding]**		Wei Huang*, **Anda Cheng***(co-first author), Zhao Zhang, Yinggui Wang: DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment.
-- **[IJCAI'25]** Yiran Xu, Nan Zhong, Guobiao Li, **Anda Cheng** , Yinggui Wang, Zhenxing Qian, Xinpeng Zhang:
+- __[ICLR'26]__ Wei Huang*, __Anda Cheng__*(co-first author), Yinggui Wang: GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs.
+- __[VLDB'26]__ Wei Huang*, __Anda Cheng__*(co-first author, corresponding author), Yinggui Wang, Lei Wang, Tao Wei: LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
+- __[EMNLP'25 Main]__	__Anda Cheng__, Wei Huang, Yinggui Wang: A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization.
+- __[EMNLP'25 Main]__	Wei Huang*, __Anda Cheng__*(co-first author), Yinggui Wang: Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning. 
+- __[EMNLP'25 Finding]__		Wei Huang*, __Anda Cheng__*(co-first author), Zhao Zhang, Yinggui Wang: DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment.
+- __[IJCAI'25]__ Yiran Xu, Nan Zhong, Guobiao Li, __Anda Cheng__, Yinggui Wang, Zhenxing Qian, Xinpeng Zhang:
 Fine-grained Prompt Screening: Defending Against Backdoor Attack on Text-to-Image Diffusion Models. 
-- **[arxiv'25]**		Chunyang Li, Zifeng Kang, Junwei Zhang, Zhuo Ma, **Anda Cheng**, Xinghua Li, Jianfeng Ma:
+- __[arxiv'25]__		Chunyang Li, Zifeng Kang, Junwei Zhang, Zhuo Ma, __Anda Cheng__, Xinghua Li, Jianfeng Ma:
 The Shawshank Redemption of Embodied AI: Understanding and Benchmarking Indirect Environmental Jailbreaks. 
-- **[arxiv'25]**	Chunyang Li, Junwei Zhang, **Anda Cheng**, Zhuo Ma, Xinghua Li, Jianfeng Ma:
+- __[arxiv'25]__	Chunyang Li, Junwei Zhang, __Anda Cheng__, Zhuo Ma, Xinghua Li, Jianfeng Ma:
 CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Language Models.
-- **[ICASSP'24]**	Wei Huang, Yinggui Wang, **Anda Cheng**, Aihui Zhou, Chaofan Yu, Lei Wang:
+- __[ICASSP'24]__	Wei Huang, Yinggui Wang, __Anda Cheng__, Aihui Zhou, Chaofan Yu, Lei Wang:
 A Fast, Performant, Secure Distributed Training Framework For LLM. 
-- **[arxiv'24]**		Zhipeng Wan, **Anda Cheng**, Yinggui Wang, Lei Wang:
+- __[arxiv'24]__		Zhipeng Wan, __Anda Cheng__, Yinggui Wang, Lei Wang:
 Information Leakage from Embedding in Large Language Models. 
-- **[ICASSP'23, oral]**		**Anda Cheng**, Jian Cheng:
+- __[ICASSP'23, oral]__		__Anda Cheng__, Jian Cheng:
 APGP: Accuracy-Preserving Generative Perturbation for Defending Against Model Cloning Attacks. 
-- **[arxiv'23]**		**Anda Cheng**, Zhen Wang, Yaliang Li, Jian Cheng:
+- __[arxiv'23]__		__Anda Cheng__, Zhen Wang, Yaliang Li, Jian Cheng:
 HPN: Personalized Federated Hyperparameter Optimization. 
-- **[AAAI'22]**		**Anda Cheng**, Jiaxing Wang, Xi Sheryl Zhang, Qiang Chen, Peisong Wang, Jian Cheng:
+- __[AAAI'22]__		__Anda Cheng__, Jiaxing Wang, Xi Sheryl Zhang, Qiang Chen, Peisong Wang, Jian Cheng:
 DPNAS: Neural Architecture Search for Deep Learning with Differential Privacy. 
--	**[CVPR'22]**		**Anda Cheng**, Peisong Wang, Xi Sheryl Zhang, Jian Cheng:
+-	__[CVPR'22]__		__Anda Cheng__, Peisong Wang, Xi Sheryl Zhang, Jian Cheng:
 Differentially Private Federated Learning with Local Regularization and Sparsification. 
-- **[NeurIPS'22]**		Weihan Cao, Yifan Zhang, Jianfei Gao, **Anda Cheng**, Ke Cheng, Jian Cheng:
+- __[NeurIPS'22]__		Weihan Cao, Yifan Zhang, Jianfei Gao, __Anda Cheng__, Ke Cheng, Jian Cheng:
 PKD: General Distillation Framework for Object Detectors via Pearson Correlation Coefficient. 
-- **[TCSVT'20]**		Qiang Chen, **Anda Cheng**, Xiangyu He, Peisong Wang, Jian Cheng:
+- __[TCSVT'20]__		Qiang Chen, __Anda Cheng__, Xiangyu He, Peisong Wang, Jian Cheng:
 SpatialFlow: Bridging All Tasks for Panoptic Segmentation. 
-- **[TNNLS'20]**		Peisong Wang, Xiangyu He, Qiang Chen, **Anda Cheng**, Qingshan Liu, Jian Cheng:
+- __[TNNLS'20]__		Peisong Wang, Xiangyu He, Qiang Chen, __Anda Cheng__, Qingshan Liu, Jian Cheng:
 Unsupervised Network Quantization via Fixed-Point Factorization. 
-- **[PR'20]**		Qiang Chen, Peisong Wang, **Anda Cheng**, Wanguo Wang, Yifan Zhang, Jian Cheng:
+- __[PR'20]__		Qiang Chen, Peisong Wang, __Anda Cheng__, Wanguo Wang, Yifan Zhang, Jian Cheng:
 Robust one-stage object detection with location-aware classifiers.
 
 
