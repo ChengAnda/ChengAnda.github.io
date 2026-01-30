@@ -15,11 +15,11 @@ Hi there! I am Anda Cheng (程安达), currently serving as an Algorithm Expert 
 
 Publications
 ======
-- **[ICLR'26]** Wei Huang, **Anda Cheng**(co-first author), Yinggui Wang: GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs.
-- **[VLDB'26]** Wei Huang, **Anda Cheng**(corresponding author), Yinggui Wang, Lei Wang, Tao Wei: LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
+- **[ICLR'26]** Wei Huang*, **Anda Cheng***(co-first author), Yinggui Wang: GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs.
+- **[VLDB'26]** Wei Huang*, **Anda Cheng***(co-first author, corresponding author), Yinggui Wang, Lei Wang, Tao Wei: LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
 - **[EMNLP'25 Main]**	**Anda Cheng**, Wei Huang, Yinggui Wang: A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization.
-- **[EMNLP'25 Main]**	Wei Huang, **Anda Cheng**(co-first author), Yinggui Wang: Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning. 
-- **[EMNLP'25 Finding]**		Wei Huang, **Anda Cheng**(co-first author), Zhao Zhang, Yinggui Wang: DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment.
+- **[EMNLP'25 Main]**	Wei Huang*, **Anda Cheng***(co-first author), Yinggui Wang: Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning. 
+- **[EMNLP'25 Finding]**		Wei Huang*, **Anda Cheng***(co-first author), Zhao Zhang, Yinggui Wang: DPF-CM: A Data Processing Framework with Privacy-Preserving Vector Databases for Chinese Medical LLMs Training and Deployment.
 - **[IJCAI'25]** Yiran Xu, Nan Zhong, Guobiao Li, **Anda Cheng** , Yinggui Wang, Zhenxing Qian, Xinpeng Zhang:
 Fine-grained Prompt Screening: Defending Against Backdoor Attack on Text-to-Image Diffusion Models. 
 - **[arxiv'25]**		Chunyang Li, Zifeng Kang, Junwei Zhang, Zhuo Ma, **Anda Cheng**, Xinghua Li, Jianfeng Ma:
@@ -30,7 +30,7 @@ CPA-RAG:Covert Poisoning Attacks on Retrieval-Augmented Generation in Large Lang
 A Fast, Performant, Secure Distributed Training Framework For LLM. 
 - **[arxiv'24]**		Zhipeng Wan, **Anda Cheng**, Yinggui Wang, Lei Wang:
 Information Leakage from Embedding in Large Language Models. 
-- **[ICASSP'23]**		**Anda Cheng**, Jian Cheng:
+- **[ICASSP'23, oral]**		**Anda Cheng**, Jian Cheng:
 APGP: Accuracy-Preserving Generative Perturbation for Defending Against Model Cloning Attacks. 
 - **[arxiv'23]**		**Anda Cheng**, Zhen Wang, Yaliang Li, Jian Cheng:
 HPN: Personalized Federated Hyperparameter Optimization. 
