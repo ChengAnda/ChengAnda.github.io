@@ -14,6 +14,12 @@ Hi there! I am Anda Cheng (程安达), currently serving as an Algorithm Expert 
 ---
 
 
+Work Experience
+======
+* Research Intern, July 2022 - Jan. 2023, Alibaba DAMO Academy.
+* Staff, July 2023 - present, Ant Group.
+
+
 Publications
 ======
 - __[ICLR'26]__ Wei Huang\*, __Anda Cheng__\*(co-first author), Yinggui Wang.
@@ -58,11 +64,6 @@ Robust one-stage object detection with location-aware classifiers.
 Academic Activity
 ======
 * Reviewer: ICML, NeurIPS, ICLR, ACL, EMNLP, CVPR, ECCV, AAAI, AISTATS, ICASSP.
-
-Work Experience
-======
-* Research Intern, July 2022 - Jan. 2023, Alibaba DAMO Academy.
-* Staff, July 2023 - present, Ant Group.
 
 -------
 
