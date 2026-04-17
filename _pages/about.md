@@ -24,7 +24,7 @@ Publications
 ======
 - __[ICLR'26]__ Wei Huang\*, __Anda Cheng__\*(co-first author), Yinggui Wang.
   GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs.
-- __[VLDB'26]__ Wei Huang\*, __Anda Cheng__\*(co-first author, corresponding author), Yinggui Wang, Lei Wang, Tao Wei.
+- __[VLDB'26]__ Wei Huang\*, __Anda Cheng__\*(co-first author), Yinggui Wang, Lei Wang, Tao Wei.
   LLM-AutoDP: Automatic Data Processing via LLM Agents for Model Fine-tuning.
 - __[EMNLP'25 Main]__	__Anda Cheng__, Wei Huang, Yinggui Wang.
   A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization.
